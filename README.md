@@ -10,9 +10,9 @@ where elegance, creativity, and a little bit of madness all come together.
 
 [Name 2] – Suhrid Abrar
 
-[Name 3] – Nafis Fuad
+[Name 3] – Tioluwani Enoch Olubunmi
 
-[Name 4] – Tioluwani Enoch Olubunmi
+[Name 4] – Nafis Fuad
 
 🏆 Competition Goals
 
