@@ -1,4 +1,4 @@
-NeurIPS 2025 Google Code Golf Championship 🏌️‍♂️💻
+# NeurIPS 2025 Google Code Golf Championship 🏌️‍♂️💻
 
 Welcome to our team repository for the NeurIPS 2025 Google Code Golf Championship!
 We’re a group of four programmers competing to solve problems in the shortest possible code —
