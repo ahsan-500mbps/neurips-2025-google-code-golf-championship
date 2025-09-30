@@ -14,3 +14,4 @@ def p(g):
      u,v=i+a,j+b
      if 0<=u<h and 0<=v<w:X[u][v]=C
  return X
+# FLAGGED 
