@@ -1,0 +1,1 @@
+p=lambda g,R=range(9):[[g[r//3][c//3][r%3][c%3]for c in R]for r in R]
