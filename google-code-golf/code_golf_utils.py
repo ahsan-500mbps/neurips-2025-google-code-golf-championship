@@ -27,7 +27,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-code_golf_dir = "/kaggle/input/google-code-golf-2025/"
+code_golf_dir = "./data/"
 libraries = ["collections", "itertools", "math", "operator", "re", "string",
              "struct"]
 colors = [
@@ -194,7 +194,7 @@ def show_examples(examples, bgcolor=(255, 255, 255)):
 
 
 def verify_program(task_num, examples):
-  task_name, task_path = "task_with_imports", "/kaggle/working/task.py"
+  task_name, task_path = "task_with_imports", f"solutions/task{task_num:03d}.py"
   spec = importlib.util.spec_from_file_location(task_name, task_path)
   if spec is None:
     print("Error: Unable to import task.py.")

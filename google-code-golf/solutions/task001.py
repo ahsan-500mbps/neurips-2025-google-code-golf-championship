@@ -1,1 +1,3 @@
-p=lambda g,R=range(9):[[g[r//3][c//3][r%3][c%3]for c in R]for r in R]
+# In solutions/task001.py
+import numpy as n
+p=lambda g:n.kron(n.array(g)>0,g).tolist()
