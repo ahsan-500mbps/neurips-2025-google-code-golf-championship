@@ -1,0 +1,1 @@
+def p(p):return [[5]*len(r) if len(set(r))==1 else [0]*len(r) for r in p]
