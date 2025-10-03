@@ -16,5 +16,4 @@ Next steps:
  * Create a zip file containing that program along with all others.
  * Submit that zip file to the Kaggle competition so that it can be officially scored.
 
-If you receive an error message run the file run_test_advanced.py to see where
-your which test cases did your solution failed.
+If you receive an error message run the file run_test_advanced.py to see which test cases did your solution failed.
