@@ -1,10 +1,2 @@
 #TODO # TO BE DONE BY AHSAN TARIQ
-def p(g):
-    H,W=len(g),len(g[0]); m=W//2
-    out=[[0]*W for _ in range(H)]
-    for i,row in enumerate(g):
-        nz=[j for j,x in enumerate(row) if x]   # nonzero positions
-        if len(nz)>=2:
-            L=row[nz[0]]; R=row[nz[-1]]
-            out[i]=[L]*m+[5]+[R]*(W-m-1)
-    return out
+p=lambda g:[([r[i1]]*(m:=len(r)//2)+[5]+[r[i2]]*(len(r)-m-1) if (i1:=next((i for i,x in enumerate(r) if x),-1))>=0 and (i2:=len(r)-1-next((i for i,x in enumerate(r[::-1]) if x),-1))>i1 else [0]*len(r)) for r in g]
