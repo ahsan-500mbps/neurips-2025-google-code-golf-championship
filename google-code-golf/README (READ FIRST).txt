@@ -1,4 +1,4 @@
-AFTER WRITING THE CODE, run the python file run_test by writing your
+AFTER WRITING THE CODE, run the python file run_test.py by writing your
 solution number in it for example for task060.json you write the following:
 
 task_num = 60
