@@ -11,3 +11,4 @@ def p(g):
               if x:a[i+1][j+1]=x
             except:0
         return a
+      # Flagged
