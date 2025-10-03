@@ -1,4 +1,4 @@
-# In run_test.py
+# In run_test.py # If your code works great, if not, try run_test_advanced.py to see errors.
 import code_golf_utils as utils
 
 # --- Manually change this number to test a different task ---
