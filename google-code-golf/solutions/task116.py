@@ -1,1 +1,1 @@
-#TODO  # TO BE DONE BY Enoch Tioluwani Olubunmi
+p=lambda j:j[::-1]+j
