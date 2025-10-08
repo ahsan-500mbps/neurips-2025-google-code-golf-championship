@@ -1,1 +1,2 @@
 # TODO  # TO BE DONE BY Nafis Fuad
+p=lambda j:[[k]for k,_ in __import__('collections').Counter(i for r in j for i in r).most_common(4)[1:]]
