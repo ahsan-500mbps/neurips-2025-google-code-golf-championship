@@ -1,28 +1,27 @@
 # TODO  # TO BE DONE BY Nafis Fuad
-L=len
-R=range
-E=enumerate
+L=len;R=range
 def p(g):
- Z=[r[:] for r in g]
- for i in range(4):
-  g=list(map(list,zip(*g[::-1])))
-  Z=list(map(list,zip(*Z[::-1])))
-  h,w=L(g),L(g[0])
-  if sum(Z,[]).count(0)>0:
-   for i in R(-w,w):
-    M=sum(g,[])
-    C=(w*h)//2+i
-    A=M[:C];B=M[C:]
-    N=min([L(A),L(B)])
-    T=sum([1 if A[j]==B[j] else 0 for j in R(N)])
-    if T+max([A.count(0),B.count(0)])==N:
-     for j in R(N):
-      if A[j]==0 or B[j]==0:
-       A[j]=B[j]=max([A[j],B[j]])
-     M=A+B
-     Z=[M[x*w:(x+1)*w] for x in R(h)]
- P=[[x,y] for y,r in E(g) for x,c in E(r) if c==0]
- f=sum(P,[]);x=f[::2];y=f[1::2]
- Z=Z[min(y):max(y)+1]
- Z=[r[min(x):max(x)+1][:] for r in Z]
- return Z
+ h,w=L(g),L(g[0]);Z=[(y,x)for y in R(h)for x in R(w)if g[y][x]==0]
+ if not Z:return[[g[0][0]]]
+ ys=[y for y,_ in Z];xs=[x for _,x in Z];y0,y1=min(ys),max(ys);x0,x1=min(xs),max(xs)
+ def C(H,W):
+  t=[[-1]*W for _ in R(H)]
+  for y in R(h):
+   for x in R(w):
+    v=g[y][x]
+    if v:
+     r,c=y%H,x%W
+     if t[r][c]<0:t[r][c]=v
+     elif t[r][c]!=v:return
+  for r in R(H):
+   for c in R(W):
+    if t[r][c]<0:t[r][c]=0
+  return t
+ T=None
+ for H in R(1,h+1):
+  for W in R(1,w+1):
+   T=C(H,W)
+   if T:break
+  if T:break
+ if not T:T=C(h,w)
+ return[[T[y%L(T)][x%L(T[0])]for x in R(x0,x1+1)]for y in R(y0,y1+1)]
