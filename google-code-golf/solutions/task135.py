@@ -1,1 +1,1 @@
-#TODO  # TO BE DONE BY Enoch Tioluwani Olubunmi
+p=lambda g:[r[6:9]for r in g[:3]]

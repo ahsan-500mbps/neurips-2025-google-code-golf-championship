@@ -2,7 +2,7 @@
 import code_golf_utils as utils
 
 # --- Manually change this number to test a different task ---
-task_num = 392
+task_num = 150
 
 # Answer verification
 print(f"--- Testing Task {task_num:03d} ---")

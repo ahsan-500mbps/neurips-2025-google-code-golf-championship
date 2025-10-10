@@ -1,1 +1,1 @@
-#TODO  # TO BE DONE BY Enoch Tioluwani Olubunmi
+p=lambda j:[[max(sum(j,[]),key=sum(j,[]).count)]*3]*3
