@@ -1,1 +1,1 @@
-# TODO  # TO BE DONE BY Tioluwani Enoch Olubunmi
+p=lambda j:[R+R[::-1]for R in j]

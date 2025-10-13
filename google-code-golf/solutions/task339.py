@@ -1,1 +1,1 @@
-# TODO  # TO BE DONE BY Tioluwani Enoch Olubunmi
+p=lambda j:[[x for x in sum(j,[])if x]]
