@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(j):
  A=range
  c=[J[:]for J in j]

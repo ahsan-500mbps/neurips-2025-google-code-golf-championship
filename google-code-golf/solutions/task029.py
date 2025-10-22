@@ -1,4 +1,3 @@
-#TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(g,L=len,E=enumerate):
  for C in set(sum(g,[])):
   P=[[x,y] for y,r in E(g) for x,c in E(r) if c==C]

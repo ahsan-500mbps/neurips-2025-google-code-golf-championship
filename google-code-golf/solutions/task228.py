@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Suhrid Sadman Abrar
 j=lambda A:[[A[E][c]for E in range(len(A))]for c in range(len(A[0]))]
 def J(A):c=[A for(A,c)in enumerate(A)if any(c)];return c[0],c[-1]
 def p(A):

@@ -1,4 +1,3 @@
-#TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(j):
 	A=range;c=[A[:]for A in j];E=j[5][0];k=[[j[l+1][A+1]for A in A(3)]for l in A(3)]
 	for W in[(0,6),(0,12),(6,0),(6,6),(6,12),(12,0),(12,6),(12,12)]:

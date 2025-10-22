@@ -1,4 +1,3 @@
-#TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(j):
 	for A in j:
 		for c in{*A}-{0}:

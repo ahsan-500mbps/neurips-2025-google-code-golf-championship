@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(g,L=len,R=range):
  h,w,I,J=L(g),L(g[0]),[],[]
  for r in R(h//2+1):

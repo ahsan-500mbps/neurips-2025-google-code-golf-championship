@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(j,A=range(4)):
  for c in A:
   for E in A:

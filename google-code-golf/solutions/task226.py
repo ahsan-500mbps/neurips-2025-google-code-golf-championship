@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def f(j,A,c,E):
  if not(0<=A<len(j)and 0<=c<len(j[0])):return
  if j[A][c]:return

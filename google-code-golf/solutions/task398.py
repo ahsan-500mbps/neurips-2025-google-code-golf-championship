@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Nafis Fuad
 def p(g,L=len,R=range):
  s=R(L([x for x in set(g[0])if x>0])*5)
  X=[[0 for x in s]for y in s]

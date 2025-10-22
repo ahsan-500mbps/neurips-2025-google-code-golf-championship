@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(g,L=len,R=range,M=max,N=min):
  h,w,y,x=L(g),L(g[0]),[],[]
  C=[C for C in set(sum(g,[])) if C not in [0,5]][0]

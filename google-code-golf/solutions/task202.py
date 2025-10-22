@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(g):
  t=list(zip(*g))
  F=lambda a:{x for x in a if x}

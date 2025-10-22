@@ -1,4 +1,3 @@
-#TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(g):
  t=[c for c in zip(*g) if 5 not in c];o=[]
  for c in t:

@@ -1,4 +1,3 @@
-#TODO  # TO BE DONE BY Suhrid Sadman Abrar
 L=len
 R=range
 P=[[0,1],[0,-1],[1,0],[-1,0]]

@@ -1,4 +1,3 @@
-#TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(j):
 	A=range;c=[[0]*9 for c in A(9)];E=[(c,E,j[c][E])for c in A(9)for E in A(9)if j[c][E]]
 	for(k,W,l)in E:

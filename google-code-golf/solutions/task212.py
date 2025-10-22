@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(g,L=len,R=range):
  h,w=L(g),L(g[0])
  W=[i for i in R(L(g)) if 5 in g[i]][0]

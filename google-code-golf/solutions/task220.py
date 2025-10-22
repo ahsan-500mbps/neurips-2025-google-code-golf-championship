@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(j,A=enumerate):
  c={8:4,2:1,3:6};E=[[J for a,J in A(W)]for W in j]
  for k,W in A(j):

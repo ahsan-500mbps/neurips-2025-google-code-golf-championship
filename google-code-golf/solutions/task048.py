@@ -1,4 +1,3 @@
-#TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def f(j,A,c):
 	global W;l.append((j,A))
 	for E in C(j-1,j+2):

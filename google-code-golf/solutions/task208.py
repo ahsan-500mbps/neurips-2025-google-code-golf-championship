@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(g,L=len,R=range):
  h,w=L(g),L(g[0])
  Z=[r[:] for r in g]

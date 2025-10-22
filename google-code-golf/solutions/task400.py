@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Nafis Fuad
 def p(g,L=len,R=range):
  h,w,I,J=L(g),L(g[0]),[],[]
  P=1

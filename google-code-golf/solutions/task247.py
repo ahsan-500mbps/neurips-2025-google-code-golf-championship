@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(g):
  f=sum(g,[])
  C=max([f.count(c) for c in set(f) if c>0])

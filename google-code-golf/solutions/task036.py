@@ -1,4 +1,3 @@
-#TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(j,A=len,c=range):
 	E='r';k='c';W,l,J=A(j),A(j[0]),{}
 	for a in c(W):

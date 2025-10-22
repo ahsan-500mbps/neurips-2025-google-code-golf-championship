@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(g):
  R=range;L=len
  H,W=L(g),L(g[0])

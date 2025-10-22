@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(g,L=len,R=range):
  h,w=L(g),L(g[0])
  r=[r for r in R(h) if L(set(g[r]))>1][0]

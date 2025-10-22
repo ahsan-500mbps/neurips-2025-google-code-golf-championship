@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(g):
     n,m=len(g),len(g[0])
     a=[(i,j)for i in range(n)for j in range(m)if g[i][j]]

@@ -1,4 +1,3 @@
-#TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(j):
 	A=range;c=[J[:]for J in j];E=j[0][0]==j[0][9];k,W=(j[0][0],j[9][0])if E else(j[0][0],j[0][9]);l=next(J for a in j for J in a if J and J not in[k,W])
 	for J in A(10):

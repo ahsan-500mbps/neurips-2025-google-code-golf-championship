@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(g,R=range):
  A=[[c for c in r[:3]] for r in g]
  C=[r[::-1]for r in A[::-1]]

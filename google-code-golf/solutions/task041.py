@@ -1,4 +1,3 @@
-#TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(j,A=0):
  for c in j:
   for E,k in enumerate(c):

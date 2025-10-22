@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(g):
     R=range;L=len
     h,w=L(g),L(g[0]);o=[r[:]for r in g]
@@ -18,10 +17,8 @@ def p(g):
         for j in R(1,w,2):
             if o[i][j]:continue
             a=Lz(i,j); b=Rz(i,j); c=Uz(i,j); d=Dz(i,j)
-            # choose by position: near top/bot prefer vertical, else horizontal
             v = (c or d) if (i==1 or i==h-2) else (a or b)
             if not v:
-                # interior fallback: majority among available rays
                 s=[x for x in (a,b,c,d) if x]
                 if s:
                     from collections import Counter

@@ -1,4 +1,3 @@
-#TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(j,A=enumerate):
  c=len(j)-1
  E=len(j[0])-1
