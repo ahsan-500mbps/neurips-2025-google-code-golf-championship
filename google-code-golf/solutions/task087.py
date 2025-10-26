@@ -1,1 +1,1 @@
-#TODO  # TO BE DONE BY AHSAN TARIQ
+p=lambda j:[r[::-1]for r in j[::-1]]
