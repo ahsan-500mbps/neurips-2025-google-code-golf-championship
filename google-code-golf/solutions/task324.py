@@ -1,1 +1,1 @@
-#flagged
+p=lambda g:[[x or g[j][i]for j,x in enumerate(r)]for i,r in enumerate(g)]
