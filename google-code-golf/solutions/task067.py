@@ -1,1 +1,1 @@
-#TODO  # TO BE DONE BY AHSAN TARIQ
+p=lambda j:[R[:int(len(j[0])/3)]for R in j]
