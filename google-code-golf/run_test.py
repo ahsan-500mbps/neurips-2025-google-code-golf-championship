@@ -2,7 +2,7 @@
 import code_golf_utils as utils
 
 # --- Manually change this number to test a different task ---
-task_num = 70
+task_num = 71
 
 
 # Answer verification

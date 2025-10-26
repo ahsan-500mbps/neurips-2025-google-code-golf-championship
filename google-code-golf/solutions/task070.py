@@ -1,9 +1,9 @@
 def p(j):
-	A=range;c=[E[:]for E in j];E=[(E,c)for E in A(len(j))for c in A(len(j[0]))if j[E][c]==8]
-	if E:
-		k,W=min(E for(E,A)in E),max(E for(E,A)in E);l,J=min(E for(A,E)in E),max(E for(A,E)in E)
-		for a in A(k,W+1):
-			for C in A(l,J+1):
-				if j[a][C]==1:c[a][C]=3
-	return c
+ c=[r[:]for r in j];E=[(y,x)for y in range(len(j))for x in range(len(j[0]))if j[y][x]==8]
+ if E:
+  Y=[y for y,_ in E];X=[x for _,x in E]
+  for y in range(min(Y),max(Y)+1):
+   for x in range(min(X),max(X)+1):
+    if j[y][x]==1:c[y][x]=3
+ return c
 
