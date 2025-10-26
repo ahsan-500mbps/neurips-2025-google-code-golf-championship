@@ -1,4 +1,3 @@
-#TODO  # DONE BY Suhrid Sadman Abrar
 def p(g):
   a=[[0]*3 for _ in(0,0,0)]
   for r,row in enumerate(g):
@@ -11,4 +10,3 @@ def p(g):
               if x:a[i+1][j+1]=x
             except:0
         return a
-      # Flagged
