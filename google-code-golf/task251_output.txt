@@ -1,0 +1,2940 @@
+--- Testing Task 251 ---
+Loaded from: /Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/data/task251.json
+Solution:     /Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py
+train: 3 example(s)
+test: 1 example(s)
+arc-gen: 262 example(s)
+
+=== TRAIN EXAMPLES ===
+[train 0] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[train 1] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[train 2] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+
+=== TEST EXAMPLES ===
+[test 0] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+
+=== ARC-GEN EXAMPLES ===
+[arc-gen 0] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 1] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 2] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 3] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 4] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 5] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 6] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 7] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 8] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 9] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 10] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 11] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 12] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 13] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 14] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 15] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 16] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 17] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 18] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 19] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 20] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 21] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 22] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 23] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 24] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 25] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 26] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 27] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 28] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 29] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 30] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 31] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 32] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 33] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 34] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 35] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 36] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 37] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 38] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 39] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 40] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 41] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 42] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 43] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 44] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 45] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 46] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 47] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 48] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 49] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 50] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 51] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 52] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 53] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 54] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 55] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 56] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 57] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 58] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 59] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 60] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 61] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 62] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 63] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 64] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 65] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 66] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 67] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 68] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 69] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 70] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 71] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 72] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 73] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 74] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 75] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 76] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 77] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 78] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 79] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 80] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 81] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 82] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 83] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 84] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 85] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 86] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 87] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 88] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 89] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 90] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 91] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 92] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 93] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 94] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 95] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 96] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 97] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 98] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 99] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 100] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 101] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 102] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 103] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 104] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 105] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 106] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 107] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 108] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 109] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 110] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 111] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 112] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 113] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 114] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 115] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 116] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 117] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 118] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 119] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 120] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 121] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 122] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 123] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 124] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 125] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 126] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 127] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 128] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 129] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 130] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 131] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 132] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 133] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 134] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 135] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 136] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 137] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 138] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 139] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 140] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 141] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 142] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 143] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 144] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 145] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 146] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 147] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 148] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 149] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 150] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 151] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 152] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 153] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 154] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 155] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 156] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 157] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 158] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 159] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 160] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 161] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 162] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 163] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 164] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 165] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 166] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 167] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 168] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 169] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 170] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 171] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 172] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 173] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 174] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 175] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 176] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 177] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 178] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 179] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 180] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 181] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 182] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 183] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 184] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 185] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 186] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 187] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 188] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 189] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 190] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 191] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 192] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 193] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 194] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 195] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 196] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 197] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 198] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 199] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 200] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 201] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 202] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 203] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 204] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 205] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 206] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 207] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 208] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 209] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 210] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 211] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 212] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 213] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 214] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 215] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 216] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 217] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 218] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 219] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 220] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 221] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 222] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 223] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 224] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 225] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 226] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 227] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 228] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 229] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 230] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 231] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 232] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 233] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 234] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 235] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 236] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 237] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 238] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 239] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 240] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 241] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 242] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 243] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 244] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 245] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 246] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 247] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 248] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 249] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 250] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 251] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 252] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 253] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 254] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 255] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 256] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 257] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 258] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 259] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 260] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+[arc-gen 261] 💥 Solver crashed!
+Exception Type: IndexError
+Error Message: list index out of range
+Traceback (most recent call last):
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/run_test_advanced.py", line 84, in <module>
+    actual = solver(inp)
+             ^^^^^^^^^^^
+  File "/Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/solutions/task251.py", line 6, in p
+    if 0<=x<h>~a[x][y]and 0<=y<w>~a[x][y]and not v[x][y]:v[x][y]=1;q+=[(x,y)]
+               ~~~~^^^
+IndexError: list index out of range
+
+✅ Output saved to: /Users/nafisfuad/Documents/GitHub/neurips-2025-google-code-golf-championship/google-code-golf/task251_output.txt

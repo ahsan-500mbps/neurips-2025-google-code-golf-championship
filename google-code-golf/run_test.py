@@ -2,7 +2,11 @@
 import code_golf_utils as utils
 
 # --- Manually change this number to test a different task ---
-task_num = 69
+<<<<<<< HEAD
+task_num = 251
+=======
+task_num = 251
+>>>>>>> fbe1d7229253588b091adec6010852394e6e8365
 
 
 
