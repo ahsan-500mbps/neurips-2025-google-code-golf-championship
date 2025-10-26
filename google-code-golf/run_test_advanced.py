@@ -3,11 +3,9 @@ from pathlib import Path
 import importlib.util, traceback, json, sys
 
 # --- Change this number to pick a task ---
-<<<<<<< HEAD
+
 task_num = 251
-=======
-task_num = 251
->>>>>>> fbe1d7229253588b091adec6010852394e6e8365
+
 print(f"--- Testing Task {task_num:03d} ---")
 
 ROOT = Path(__file__).resolve().parent  # repo root regardless of CWD
