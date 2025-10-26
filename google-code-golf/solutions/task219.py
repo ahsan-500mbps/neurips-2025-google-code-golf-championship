@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Suhrid Sadman Abrar
 from math import gcd
 
 def p(g):
@@ -9,7 +8,6 @@ def p(g):
         last=I[-1]
         if last==len(r)-1:
             continue
-        # infer pattern period from gaps between 8s (contiguous -> 1, alternating -> 2, etc.)
         d=0
         for a,b in zip(I,I[1:]): d=gcd(d,b-a)
         per=d or 1

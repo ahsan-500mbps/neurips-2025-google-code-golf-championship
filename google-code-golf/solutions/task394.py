@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Nafis Fuad
 L=len;R=range
 def p(g):
  h,w=L(g),L(g[0]);Z=[(y,x)for y in R(h)for x in R(w)if g[y][x]==0]

@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Nafis Fuad / Suhrid Sadman Abrar
 def p(g,R=range,L=len):
  h,w=L(g),L(g[0])
  g=[[8 for i in r]for r in g]

@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Nafis Fuad / Suhrid Sadman Abrar
 def p(j,A=enumerate):
  c=[[l for J,l in A(k)]for k in j]
  for E,k in A(j):

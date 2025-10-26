@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Nafis Fuad
 def p(j,A=enumerate):
  for c,E in A(j):
   for k,W in A(E):

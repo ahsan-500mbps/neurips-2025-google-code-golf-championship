@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(input_grid):
     rows,cols=len(input_grid),len(input_grid[0])
     r1=r2=c1=c2=-1

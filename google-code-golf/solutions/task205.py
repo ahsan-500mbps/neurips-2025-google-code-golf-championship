@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Suhrid Sadman Abrar
 def p(g,L=len,Z=zip):
  t=list(Z(*g))
  F=lambda a:(lambda s:next(iter(s-{0}),0))(set(a))

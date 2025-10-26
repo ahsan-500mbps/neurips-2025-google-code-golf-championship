@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Nafis Fuad / Suhrid Sadman Abrar
 L=len
 R=range
 E=enumerate

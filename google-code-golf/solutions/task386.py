@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Nafis Fuad
 def p(j):
  for A in range(4):
   for c in range(3):

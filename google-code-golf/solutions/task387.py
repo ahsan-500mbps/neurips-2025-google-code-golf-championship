@@ -1,5 +1,3 @@
-# TODO  # TO BE DONE BY Nafis Fuad
-# has spacing problems
 from itertools import *
 L=len
 R=range

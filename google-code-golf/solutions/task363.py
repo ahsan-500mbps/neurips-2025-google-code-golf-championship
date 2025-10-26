@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Nafis Fuad
 def f(g):
 	global E;A,E=[],enumerate
 	for(D,F)in E(g):

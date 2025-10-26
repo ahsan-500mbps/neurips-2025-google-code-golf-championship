@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Nafis Fuad
 def p(j):
 	A,c=len(j),len(j[0]);E=-1
 	for k in range(A):

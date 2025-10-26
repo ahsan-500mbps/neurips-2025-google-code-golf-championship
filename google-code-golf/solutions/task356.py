@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Nafis Fuad / Suhrid Sadman Abrar
 def p(j,A=range):
  c=[r[:]for r in j]
  for E in A(1,10):

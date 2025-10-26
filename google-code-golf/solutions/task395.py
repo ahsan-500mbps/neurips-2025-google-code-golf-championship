@@ -1,2 +1,1 @@
-# TODO  # TO BE DONE BY Nafis Fuad
 def p(g):t,b=g[:3],g[3:];return[[2 if t[r][c]==b[r][c]==0 else 0 for c in range(3)]for r in range(3)]

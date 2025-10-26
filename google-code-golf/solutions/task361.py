@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Nafis Fuad
 j=range
 A=enumerate
 def W(p,c,E,k):

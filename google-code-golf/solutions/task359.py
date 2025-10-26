@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Nafis Fuad / Suhrid Sadman Abrar
 def X(g):return list(zip(*g[::-1]))
 def p(g,L=len,R=range):
  V=0

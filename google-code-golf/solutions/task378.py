@@ -1,4 +1,3 @@
-# TODO  # TO BE DONE BY Nafis Fuad
 def f(j,A,c,E,k):
  W=j[A][c]
  if W==0:return
