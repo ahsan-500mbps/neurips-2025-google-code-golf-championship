@@ -1,6 +1,4 @@
-def p(j):
- a=[r[:]for r in j]
- for x in range(5):
-  for y in range(5):
-   if j[y][x]==1:a[y][x]=0;a[4][x]=1
- return a
+def p(g):
+ for i,x in enumerate(g[2]):
+  if x:g[2][i],g[-1][i]=0,1
+ return g
