@@ -1,1 +1,1 @@
-#TODO  # TO BE DONE BY Nafis Fuad
+p=lambda j:[[[5,5,5],[0,0,0],[0,0,0]],[[5,0,0],[0,5,0],[0,0,5]],[[0,0,5],[0,5,0],[5,0,0]]][len(set(v for r in j for v in r))-1]
