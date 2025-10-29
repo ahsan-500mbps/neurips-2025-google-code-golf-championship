@@ -1,12 +1,8 @@
-def p(input_grid):
-    rows,cols=len(input_grid),len(input_grid[0])
-    r1=r2=c1=c2=-1
-    for r in range(rows):
-        for c in range(cols):
-            if input_grid[r][c]==2:
-                if r1<0:r1=r
-                r2=r
-                if c1<0 or c<c1:c1=c
-                if c2<0 or c>c2:c2=c
-    return [row[c1:c2+1] for row in input_grid[r1:r2+1]]
-#FLAGGED
+def p(u):
+ i=range(9);c={};f=lambda a:[a(p,s,[u[p+a//3][s+a%3]for a in i])for p in range(len(u)-2)for s in range(len(u[0])-2)]
+ def p(p,s,n):
+  if len(r:={*n})==2 and r&{0,2}=={2}:
+   n=tuple(a==2 for a in n);k={n:sum(r)-2}
+   for a in range(4):c[n]=k;n=tuple(n[a%3*3+2-a//3]for a in i)
+   for a in i:u[p+a//3][s+a%3]=0
+ f(p);u=[*map(list,zip(*filter(any,[*map(list,zip(*filter(any,u)))])))];[f(lambda p,s,n:(t:=c.get(n:=tuple(a==0 for a in n)))and(a or n in t)and(r:=t.popitem()[1],[u[p+a//3].__setitem__(s+a%3,(r,2)[n[a]])for a in i]))for a in range(2)];return u
