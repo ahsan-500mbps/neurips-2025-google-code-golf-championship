@@ -3,7 +3,7 @@ def p(j,R=range):
  P=sorted((i,k,j[i][k])for i in R(h)for k in R(w)if j[i][k])
  if len(P)!=2:return j
  (r1,c1,a),(r2,c2,b)=P
- if r1==r2 or (r1==0 and r2==h-1):               # vertical case
+ if r1==r2 or (r1==0 and r2==h-1):
   K=abs(c2-c1)
   for i in R(h):j[i][c1]=a;j[i][c2]=b
   if K:
@@ -11,7 +11,7 @@ def p(j,R=range):
    while L<w:
     for i in R(h):j[i][L]=t[x&1]
     L+=K;x+=1
- elif c1==c2 or (c1==0 and c2==w-1):             # horizontal case
+ elif c1==c2 or (c1==0 and c2==w-1):
   K=abs(r2-r1)
   for k in R(w):j[r1][k]=a;j[r2][k]=b
   if K:
