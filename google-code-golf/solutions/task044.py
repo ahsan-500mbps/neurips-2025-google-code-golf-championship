@@ -1,56 +1,29 @@
-import json
-
-def f(g):
- h=len(g);w=len(g[0]);o=[r[:]for r in g];v=[[0]*w for _ in range(h)];c=[];i=[]
- for y in range(h):
-  for x in range(w):
-   if g[y][x]==5 and v[y][x]<1:
-    r1=c1=y,x;r2,c2=y,x
-    while c2+1<w and g[y][c2+1]==5:c2+=1
-    r=y
-    while r+1<h and all(g[r+1][c]==5 for c in range(c1,c2+1)):r+=1
-    r2=r
-    for a in range(r1,r2+1):
-     for b in range(c1,c2+1):v[a][b]=1
-    c+=[(r1,c1,r2,c2)]
- for r1,c1,r2,c2 in c:
-  v2=[[0]*w for _ in range(h)]
-  for y in range(r1+1,r2):
-   for x in range(c1+1,c2):
-    if g[y][x]!=5 and g[y][x]!=0 and v2[y][x]<1:
-     t=g[y][x];a,b=y,x;d,e=y,x
-     while e+1<c2 and g[y][e+1]==t:e+=1
-     f=1;z=a
-     while z+1<r2 and f:
-      for q in range(b,e+1):
-       if g[z+1][q]!=t:f=0;break
-      if f:z+=1
-     d=z
-     for p in range(a,d+1):
-      for q in range(b,e+1):v2[p][q]=1
-     i+=[(a,b,d,e,t,r1,c1,r2,c2)]
- for a,b,d,e,t,A,B,C,D in i:
-  for y in range(a,d+1):
-   for x in range(b,e+1):o[y][x]=5
- if len(i)>1:
-  a,b,d,e,t,A,B,C,D=i[0];h1=d-a+1;w1=e-b+1
-  m,n,p,q,u,E,F,G,H=i[1];h2=p-m+1;w2=q-n+1
-  for y in range(A+1,C-h2+2):
-   for x in range(B+1,D-w2+2):
-    if all(o[y+dy][x+dx]==5 for dy in range(h2) for dx in range(w2)):
-     for dy in range(h2):
-      for dx in range(w2):o[y+dy][x+dx]=u
-     break
-   else:continue
-   break
-  for y in range(E+1,G-h1+2):
-   for x in range(F+1,H-w1+2):
-    if all(o[y+dy][x+dx]==5 for dy in range(h1) for dx in range(w1)):
-     for dy in range(h1):
-      for dx in range(w1):o[y+dy][x+dx]=t
-     break
-   else:continue
-   break
- return o
-def p(g):return f(g)
-#FLAGGED
+def p(g):
+ v=set();R=[]
+ for i in range(100):
+  r,c=i//10,i%10
+  if(r,c)in v:continue
+  V=g[r][c];q=[(r,c)];C={(r,c)};v|={q[0]}
+  for x,y in q:
+   for n in[(x+d,y+e)for d,e in[(0,1),(0,-1),(1,0),(-1,0)]]:
+    if 0<=n[0]<10>n[1]>=0 and n not in v and g[n[0]][n[1]]==V:v|={n};q+=[n];C|={n}
+  R+=[(V,C)]
+ F=[c for v,c in R if v==5];H=[];P=[]
+ for v,c in R:
+  if v==0:
+   b=lambda s,i:[min,max][i>1](x[i%2]for x in s)
+   if any(all(b(c,i)>=b(f,i)if i<2 else b(c,i)<=b(f,i)for i in range(4))for f in F):H+=[c]
+  elif v>0 and v!=5:P+=[(v,c)]
+ N=lambda s:frozenset((r-(m:=min(s))[0],c-m[1])for r,c in s)
+ h={};p={}
+ for x in H:k=N(x);h[k]=h.get(k,[])+[x]
+ for v,x in P:k=N(x);p[k]=p.get(k,[])+[(v,x)]
+ C={v:sum(1 for x,_ in P if x==v)for v,_ in P}
+ for k,L in h.items():
+  if k in p:
+   Q=p[k]
+   if len(Q)>1 and C:Q=[x for x in Q if x[0]!=max(C,key=C.get)]or Q
+   for a,(v,b)in zip(L,Q):
+    for r,c in b:g[r][c]=0
+    for r,c in a:g[r][c]=v
+ return g
