@@ -1,22 +1,25 @@
-from itertools import *
-L=len
-R=range
-def p(g):
- Z=[r[:] for r in g]
- C=sorted(set(sum(g,[])))[1:]
- d={C[0]:C[1],C[1]:C[0]}
- for i in range(4):
-  g=list(map(list,zip(*g[::-1])))
-  Z=list(map(list,zip(*Z[::-1])))
-  h,w=L(g),L(g[0])
-  for r in R(h):
-   P=0
-   for c in R(w):
-    if g[r][c] in d:
-     for x,y in list(product([0,1,-1],repeat=2)):
-      if 0<r+y<h and 0<=c+x<w and not x==y==0:Z[r+y][c+x]=d[g[r][c]]
-    if g[r][c] in d and P>0:P=0
-    if g[r][c] in d and P==0 and g[r].index(g[r][c])<g[r].index(d[g[r][c]]):P=c+2
-    if P>0 and P==c:Z[r][c]=5;P+=2
- return Z
-#FLAGGED
+def f9(I):
+	L,M=len(I),len(I[0]);D=[list(A)for A in I];C,N=[],set()
+	for A in range(L):
+		for B in range(M):
+			E=I[A][B]
+			if E!=0:C.append((A,B,E));N.add(E)
+	if not C:return I
+	F=sorted(N)
+	def S(v):return F[0]if len(F)==1 or v==F[1]else F[1]
+	for(A,B,E)in C:
+		T=S(E)
+		for O in(-1,0,1):
+			for P in(-1,0,1):
+				if O==0 and P==0:continue
+				Q,R=A+O,B+P
+				if 0<=Q<L and 0<=R<M:D[Q][R]=T
+	G=min(A for(A,B,B)in C);H=max(A for(A,B,B)in C);J=min(B for(A,B,A)in C);K=max(B for(A,B,A)in C)
+	if K>J:
+		for B in range(J+1,K):
+			if min(B-J,K-B)%2==0:D[G][B]=5;D[H][B]=5
+	if H>G:
+		for A in range(G+1,H):
+			if min(A-G,H-A)%2==0:D[A][J]=5;D[A][K]=5
+	return tuple(tuple(A)for A in D)
+def p(g):A=tuple(tuple(A)for A in g);B=f9(A);return[list(A)for A in B]
