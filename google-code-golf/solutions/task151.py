@@ -1,4 +1,3 @@
-#TODO  # TO BE DONE BY Nafis Fuad
 def p(g):
  h,w=len(g),len(g[0])
  R=C=rs=cs=0
