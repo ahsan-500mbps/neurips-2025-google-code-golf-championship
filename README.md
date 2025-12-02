@@ -6,13 +6,13 @@ where elegance, creativity, and a little bit of madness all come together.
 
 🧑‍🤝‍🧑 Team Members
 
-[Name 1] – Ahsan Tariq
+1 Ahsan Tariq
 
-[Name 2] – Suhrid Abrar
+2 Suhrid Abrar
 
-[Name 3] – Tioluwani Enoch Olubunmi
+3 Tioluwani Enoch Olubunmi
 
-[Name 4] – Nafis Fuad
+4 Nafis Fuad
 
 🏆 Competition Goals
 
