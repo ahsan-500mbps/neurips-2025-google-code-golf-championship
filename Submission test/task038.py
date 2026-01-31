@@ -1,0 +1,1 @@
+def p(g):q=range;c=sum(all(g[i+k][j+l]==1 for k in q(2)for l in q(2))for i in q(8)for j in q(8));return[[1 if i<c else 0 for i in q(5)]]

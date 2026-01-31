@@ -1,0 +1,1 @@
+p=lambda g:[([r[i1]]*(m:=len(r)//2)+[5]+[r[i2]]*(len(r)-m-1) if (i1:=next((i for i,x in enumerate(r) if x),-1))>=0 and (i2:=len(r)-1-next((i for i,x in enumerate(r[::-1]) if x),-1))>i1 else [0]*len(r)) for r in g]

@@ -1,0 +1,1 @@
+p=lambda g:next(([r[max(0,j-1):min(len(r),j+2)]for r in g[max(0,i-1):min(len(g),i+2)]]for i,r in enumerate(g)for j,v in enumerate(r)if v==8),g)
