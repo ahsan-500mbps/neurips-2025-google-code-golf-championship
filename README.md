@@ -41,4 +41,4 @@ NeurIPS 2025
 
 Google for making us rethink what’s possible with too little code
 
-All fellow competitors — may the shortest code win!!!!!!
+All fellow competitors — may the shortest code win!!!
